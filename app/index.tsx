@@ -9,7 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>Edit nignog app/index.tsx to edit this screen.</Text>
+      <Text></Text>
     </View>
   );
 }
