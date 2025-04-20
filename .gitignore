@@ -36,3 +36,16 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+
+# Ignore virtual environments
+venv/
+**/venv/
+
+# Ignore Python cache files
+__pycache__/
+**/__pycache__/
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+*.pyd
